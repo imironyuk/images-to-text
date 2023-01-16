@@ -6,3 +6,4 @@ A small python script to find text on images. Uses [EasyOCR](https://github.com/
 - `PATH_TO_DIR` - directory with images
 
 3. Exec script `python3 ./app.py`
+4. Doker image "https://hub.docker.com/r/3222288822/docker-py"
